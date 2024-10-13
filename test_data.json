@@ -1,0 +1,198 @@
+[
+    {
+        "full_name": "John Doe",
+        "email": "john.doe@example.com",
+        "country": "USA",
+        "like_number": 5,
+        "liked_gender": ["pop", "rap"]
+    },
+    {
+        "full_name": "test man",
+        "email": "test.man@example.com",
+        "country": "FRA",
+        "like_number": 50,
+        "liked_gender": ["jazz", "rap"]
+    },
+    {
+        "full_name": "Alice Smith",
+        "email": "alice.smith@example.com",
+        "country": "USA",
+        "like_number": 10,
+        "liked_gender": ["pop", "rock"]
+    },
+    {
+        "full_name": "Bob Johnson",
+        "email": "bob.johnson@example.com",
+        "country": "UK",
+        "like_number": 20,
+        "liked_gender": ["hiphop", "pop"]
+    },
+    {
+        "full_name": "Charlie Brown",
+        "email": "charlie.brown@example.com",
+        "country": "CAN",
+        "like_number": 30,
+        "liked_gender": ["rock", "jazz"]
+    },
+    {
+        "full_name": "Diana Prince",
+        "email": "diana.prince@example.com",
+        "country": "USA",
+        "like_number": 25,
+        "liked_gender": ["rap", "blues"]
+    },
+    {
+        "full_name": "Edward Elric",
+        "email": "edward.elric@example.com",
+        "country": "JPN",
+        "like_number": 15,
+        "liked_gender": ["metal", "pop"]
+    },
+    {
+        "full_name": "Fiona Apple",
+        "email": "fiona.apple@example.com",
+        "country": "USA",
+        "like_number": 40,
+        "liked_gender": ["indie", "rock"]
+    },
+    {
+        "full_name": "George Washington",
+        "email": "george.washington@example.com",
+        "country": "USA",
+        "like_number": 35,
+        "liked_gender": ["classical", "pop"]
+    },
+    {
+        "full_name": "Hannah Montana",
+        "email": "hannah.montana@example.com",
+        "country": "USA",
+        "like_number": 50,
+        "liked_gender": ["pop", "country"]
+    },
+    {
+        "full_name": "Ivy League",
+        "email": "ivy.league@example.com",
+        "country": "USA",
+        "like_number": 10,
+        "liked_gender": ["jazz", "rock"]
+    },
+    {
+        "full_name": "Jack Daniels",
+        "email": "jack.daniels@example.com",
+        "country": "USA",
+        "like_number": 55,
+        "liked_gender": ["blues", "rock"]
+    },
+    {
+        "full_name": "Kira Yamato",
+        "email": "kira.yamato@example.com",
+        "country": "JPN",
+        "like_number": 45,
+        "liked_gender": ["jrock", "pop"]
+    },
+    {
+        "full_name": "Lana Del Rey",
+        "email": "lana.del.rey@example.com",
+        "country": "USA",
+        "like_number": 60,
+        "liked_gender": ["pop", "indie"]
+    },
+    {
+        "full_name": "Mike Tyson",
+        "email": "mike.tyson@example.com",
+        "country": "USA",
+        "like_number": 20,
+        "liked_gender": ["rap", "jazz"]
+    },
+    {
+        "full_name": "Nina Simone",
+        "email": "nina.simone@example.com",
+        "country": "USA",
+        "like_number": 30,
+        "liked_gender": ["jazz", "blues"]
+    },
+    {
+        "full_name": "Oscar Wilde",
+        "email": "oscar.wilde@example.com",
+        "country": "UK",
+        "like_number": 50,
+        "liked_gender": ["rock", "pop"]
+    },
+    {
+        "full_name": "Peter Parker",
+        "email": "peter.parker@example.com",
+        "country": "USA",
+        "like_number": 10,
+        "liked_gender": ["rap", "hiphop"]
+    },
+    {
+        "full_name": "Quincy Jones",
+        "email": "quincy.jones@example.com",
+        "country": "USA",
+        "like_number": 70,
+        "liked_gender": ["jazz", "pop"]
+    },
+    {
+        "full_name": "Rita Hayworth",
+        "email": "rita.hayworth@example.com",
+        "country": "USA",
+        "like_number": 60,
+        "liked_gender": ["classical", "pop"]
+    },
+    {
+        "full_name": "Steve Jobs",
+        "email": "steve.jobs@example.com",
+        "country": "USA",
+        "like_number": 40,
+        "liked_gender": ["indie", "rock"]
+    },
+    {
+        "full_name": "Tina Turner",
+        "email": "tina.turner@example.com",
+        "country": "USA",
+        "like_number": 30,
+        "liked_gender": ["rock", "pop"]
+    },
+    {
+        "full_name": "Ursula K. Le Guin",
+        "email": "ursula.le.guine@example.com",
+        "country": "USA",
+        "like_number": 20,
+        "liked_gender": ["jazz", "blues"]
+    },
+    {
+        "full_name": "Victor Hugo",
+        "email": "victor.hugo@example.com",
+        "country": "FRA",
+        "like_number": 15,
+        "liked_gender": ["classical", "pop"]
+    },
+    {
+        "full_name": "Winston Churchill",
+        "email": "winston.churchill@example.com",
+        "country": "UK",
+        "like_number": 25,
+        "liked_gender": ["blues", "rock"]
+    },
+    {
+        "full_name": "Xena Warrior",
+        "email": "xena.warrior@example.com",
+        "country": "GRC",
+        "like_number": 45,
+        "liked_gender": ["pop", "rap"]
+    },
+    {
+        "full_name": "Yoko Ono",
+        "email": "yoko.ono@example.com",
+        "country": "JPN",
+        "like_number": 60,
+        "liked_gender": ["experimental", "pop"]
+    },
+    {
+        "full_name": "Zach Galifianakis",
+        "email": "zach.galifianakis@example.com",
+        "country": "USA",
+        "like_number": 55,
+        "liked_gender": ["comedy", "pop"]
+    }
+]
